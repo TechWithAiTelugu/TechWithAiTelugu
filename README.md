@@ -56,20 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nextgen-coders-telugu&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats" />
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nextgen-coders-telugu&theme=transparent" alt="GitHub Streak" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextgen-coders-telugu&layout=compact&theme=transparent" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🚀 Projects & Highlights
 
 - 🏗️ Building a full-featured **App Store**, **OTT Platform**, and **Blogger System**
@@ -79,9 +65,3 @@
 
 ---
 
-<div align="center">
-
-### 💡 Always Curious. Always Building.
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Coding Animation"/>
-
-</div>
