@@ -23,10 +23,10 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://t.me/nextgencodertelugu" target="_blank">
+  <a href="https://t.me/techwith_ai" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://youtube.com/@nextgencartoons16?si=-0Qocm3Em6L4GOnt" target="_blank">
+  <a href="https://youtube.com/@techwitai1?si=sbQFKtAFZyH811MG" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
