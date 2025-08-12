@@ -15,8 +15,8 @@
 - 💼 Proficient in **Full-Stack Development** and **Cross-Platform Apps**
 - 📱 Specialized in **Android, Flutter, React Native, and PHP**
 - 🛠️ Currently building professional tools, apps, and real-time projects
-- 🤝 Connect with me on [Telegram](https://t.me/nextgencodertelugu)
-- 📫 Contact: [@nextgencodertelugu](https://t.me/nextgencodertelugu)
+- 🤝 Connect with me on [Telegram](https://t.me/techwith_ai)
+- 📫 Contact: [@nextgencodertelugu](https://t.me/techwith_ai)
 
 ---
 
