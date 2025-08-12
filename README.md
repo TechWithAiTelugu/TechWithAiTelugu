@@ -26,7 +26,7 @@
   <a href="https://t.me/techwith_ai" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://youtube.com/@techwitai1?si=sbQFKtAFZyH811MG" target="_blank">
+  <a href="https://www.youtube.com/channel/UC9rnevgmpPfnR_oxhQhTX6w" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
