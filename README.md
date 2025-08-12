@@ -16,7 +16,7 @@
 - 📱 Specialized in **Android, Flutter, React Native, and PHP**
 - 🛠️ Currently building professional tools, apps, and real-time projects
 - 🤝 Connect with me on [Telegram](https://t.me/techwith_ai)
-- 📫 Contact: [@nextgencodertelugu](https://t.me/techwith_ai)
+- 📫 Contact: [@techwith_ai](https://t.me/techwith_ai)
 
 ---
 
